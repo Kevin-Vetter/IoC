@@ -196,7 +196,7 @@ _For other documentation, please refer to the [ARDUINO Documentation](https://ww
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. **Unfortunatly** - This project does not support it yet
 
-####**Honorable mentions goes to:**
+#### **Honorable mentions goes to:**
 <a href="mailto: kris456h@elevcampus.dk">Kristian Solkær Gade Sørensen</a> - For helping solve a for loop problem with a string array.
 <a href="mailto: elia1040@elevcampus.dk">Elias Nielsen Andersen</a> - For general support throughout this whole project.
 <a href="mailto: thom59w9@elevcampus.dk">Thomas Damkjær</a> - For providing working code for temperature & humidity reading.
@@ -211,7 +211,7 @@ Contributions are what make the open source community such an amazing place to l
 
 Kevin Vetter- [@kevin_vetter04](https://twitter.com/kevin_vetter04) -  kevinmvetter@gmail.com
 
-Project Link: Not on GitHub yet.
+Project Link: [GitHub](https://github.com/Kevin-Vetter/IoC)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
