@@ -174,6 +174,7 @@ SIGNAL to A4
 _Note: this has to be an analog pin_
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
