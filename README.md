@@ -106,40 +106,73 @@ Remember to install all libraries with dependencies.
 
 
 ## Circuit Connection
+
+
 ##### OLED
 SDA to ZERO SDA
-SCL to ZERO SCL
-VCC to 3.3
-GND to GROUND
 
+
+SCL to ZERO SCL 
+
+
+VCC to 3.3 
+
+
+GND to GROUND
 
 ##### RTC
 SDA to ZERO SDA
+
+
 SCL to ZERO SCL
+
+
 5V to 3.3 (with the one used for us)
+
+
 GND to GROUND
 
 ##### DHT11
 SCL to PIN 2
+
+
 VCC to 3.3 (with the one used for us)
+
+
 GND to GROUND
 
 ##### BUTTONS
-GND to GROUND
-VCC to PIN 8
-GND to GROUND
-VCC to PIN 9
-GND to GROUND
-VCC to PIN 10
+GND to GROUND 
+
+
+VCC to PIN 8 
+
+
+GND to GROUND 
+
+
+VCC to PIN 9 
+
+
+GND to GROUND 
+
+
+VCC to PIN 10 
 
 _Note: these pins need to support interrupt_
 
 ##### 10K POTENTIOMETER
 GND to GROUND
+
+
 VCC to 3.3
+
+
 SIGNAL to A4
 
 _Note: this has to be an analog pin_
+
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
